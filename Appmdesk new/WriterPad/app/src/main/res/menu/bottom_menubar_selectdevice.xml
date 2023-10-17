@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refreshicon"
+        android:title="Refresh"
+        android:icon="@drawable/refresh_icon"/>
+
+    <item
+        android:id="@+id/logsicon"
+        android:title="Logs"
+        android:icon="@drawable/restore"/>
+    <item
+        android:id="@+id/sheet_transfer"
+        android:title="Sheet Transfer"
+        android:icon="@drawable/sheet_transfer"/>
+    <item
+        android:id="@+id/connecticon"
+        android:title="Connect"
+        android:icon="@drawable/plugin_connect"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WriterPad</string>
+    <string name="navText">Writers Pad</string>
+    <string name="logNav">Log</string>
+    <string name="selectDeviceText">Connect to a Weighing Scale to Start a New Session</string>
+
+
+
+</resources>

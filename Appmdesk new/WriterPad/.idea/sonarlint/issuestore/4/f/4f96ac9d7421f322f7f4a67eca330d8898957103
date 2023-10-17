@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰Ü‏•8ßיהה²1
+S
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(ײ¡¿’8ניהה²1
+P
+java:S1874".Remove this use of "<init>"; it is deprecated.(·ÿה¶תÿÿÿÿ8ריהה²1
+T
+java:S1874	"2Remove this use of "setMessage"; it is deprecated.(°•רÿÿÿÿ8שיהה²1

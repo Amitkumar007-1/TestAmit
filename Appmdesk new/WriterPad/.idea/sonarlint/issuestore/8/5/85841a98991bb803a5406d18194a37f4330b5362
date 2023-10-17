@@ -1,0 +1,15 @@
+
+J
+java:S1604+"(Make this anonymous inner class a lambda(Ù’€†ıÿÿÿÿ8­¡àÈ²1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıËŒô8¯¡àÈ²1
+t	java:S116"XRename this field "list_of_users" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ˆËü8ı¡àÈ²1
+
+java:S1450"dRemove the "loadingProgressDialog" field and declare it as a local variable in the relevant methods.(¼¸Ó“8ˆ¢àÈ²1
+|
+java:S1450""ZRemove the "navbarArrow" field and declare it as a local variable in the relevant methods.(ë ¶¡ûÿÿÿÿ8ˆ¢àÈ²1
+S
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(¼¸Ó“8¢àÈ²1
+]	java:S1258"<This block of commented-out lines of code should be removed.( ¹Àáûÿÿÿÿ8¢àÈ²1
+£
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼úßÙøÿÿÿÿ8¨¢àÈ²1
+]	java:S125O"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ8ß§®å²1

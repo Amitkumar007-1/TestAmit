@@ -1,0 +1,11 @@
+
+h
+java:S1192#"FDefine a constant instead of duplicating this literal "crate" 3 times.(¼¿Éüÿÿÿÿ8È“¼ì±1
+E
+java:S1604)"(Make this anonymous inner class a lambda(á»ë˜8É“¼ì±1
+w
+java:S1450"ZRemove the "navBackIcon" field and declare it as a local variable in the relevant methods.(ˆæ‡ô8ÀêÆ²1
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8ÌË½ì±1
+„
+java:S1450"bRemove the "weighingMachineName" field and declare it as a local variable in the relevant methods.(ùº¿¿ÿÿÿÿÿ8³¹¼ì±1

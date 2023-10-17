@@ -1,0 +1,13 @@
+
+E
+java:S1604Y"(Make this anonymous inner class a lambda(¹®¾¦8šĞçé±1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê÷°©8ªĞçé±1
+/
+java:S2176"Rename this class.(ëâñ8‹Ôçé±1
+R
+java:S1874/"0Remove this use of "getColor"; it is deprecated.(‚ûŸ¸ûÿÿÿÿ8ğÔçé±1
+M
+java:S18741"0Remove this use of "getColor"; it is deprecated.(–ß÷˜8öÔçé±1
+}
+java:S3923b"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ËŒ–İúÿÿÿÿ8óÕçé±1
+X	java:S125i"<This block of commented-out lines of code should be removed.(Œ±õÂ8üÕçé±1
